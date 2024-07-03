@@ -55,3 +55,5 @@ for element in range(3):
 for element in posts:
     if element.author == '김아무개':
         print(element.title)
+
+# sadasdasdsdasd
